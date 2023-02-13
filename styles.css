@@ -1,9 +1,9 @@
 .h1{ 
   font-size: 60px;
-  font-style: sans-serif;
-  text-color: "blue";
+  font-style: "sans-serif";
+  text-color: #FF0000;
 }
 .h2{
   font-size: 48px;
-  text-color: "red";
+  text-color: #0000FF;
 }
